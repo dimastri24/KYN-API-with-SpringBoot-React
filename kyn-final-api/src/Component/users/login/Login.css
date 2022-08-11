@@ -1,0 +1,11 @@
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+.fb-color {
+    background-color: #3b5998;
+}

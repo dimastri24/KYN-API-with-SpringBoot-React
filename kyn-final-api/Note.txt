@@ -1,0 +1,28 @@
+This is the React project for the KYN Store API final project
+
+You could create a new project and paste this src folder or use your existing project
+
+This Project using cdn Bootstrap 5.1, so please copy the css js first from the getbootstrap
+and paste it in the index.html inside public folder
+
+Below are the required nodes to run the react, make sure to install this first before running the project
+"dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-facebook-login": "^4.1.1",
+    "react-router-dom": "^5.2.0",
+    "react-s-alert": "^1.4.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+
+=========================================================================
+
+Here also note for the Spring Boot project
+
+The project is ready to use, just need to import in your workspace
+
+Be sure to create the database first and change the client id and secreate for the facebook login
