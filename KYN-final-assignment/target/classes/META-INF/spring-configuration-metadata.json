@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.dimas.api.kyn.config.AppProperties",
+      "sourceType": "com.dimas.api.kyn.config.AppProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
